@@ -1,0 +1,28 @@
+body{
+text-align: center;
+}
+
+
+
+h1{
+    background-color:rgba(32, 31, 30, 0.596);
+    color: rgb(49, 38, 38);
+  
+}
+
+h2{
+    background-color:rgb(166, 209, 195);
+
+}
+
+p{
+    padding: 10px;
+}
+
+button{
+    color: rgb(247, 10, 10);
+}
+
+#soccer, #canta, #music {
+    display: none;
+}
